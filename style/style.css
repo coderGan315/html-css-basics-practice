@@ -78,3 +78,12 @@ a:hover {
   background-color: #3f4e4f;
   color: #abc9ff;
 }
+footer {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.btn {
+  background-color: #ff8b8b;
+  padding: 10px 35px;
+  margin-bottom: 12px;
+}
