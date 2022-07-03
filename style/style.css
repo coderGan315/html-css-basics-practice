@@ -35,6 +35,46 @@ header > h1 {
   color: #4787fe;
   margin-bottom: 15px;
 }
+
 header > img {
   width: 300px;
+}
+
+main {
+  background-color: #ffdede;
+  width: 700px;
+  margin: 0 auto 50px auto;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 2px 3px 3px #ff8b8b;
+}
+
+.first-section {
+  margin-bottom: 20px;
+}
+.first-section > p,
+.second-section > p {
+  margin: 20px 0;
+}
+
+li {
+  margin-bottom: 15px;
+  padding-left: 10px;
+  border-left: 4px solid transparent;
+}
+
+li:nth-of-type(odd) {
+  color: #ff7b7b;
+  border-color: #ff8b8b;
+}
+a {
+  background-color: #abc9ff;
+  padding: 10px;
+  border-radius: 5px;
+  color: #3f4e4f;
+}
+a:active,
+a:hover {
+  background-color: #3f4e4f;
+  color: #abc9ff;
 }
