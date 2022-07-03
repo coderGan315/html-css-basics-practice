@@ -33,6 +33,7 @@ header {
 }
 header > h1 {
   color: #7c3e66;
+  text-shadow: 2px 3px 3px #c70a80;
   margin-bottom: 15px;
 }
 
