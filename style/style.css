@@ -6,7 +6,7 @@
   padding: 0;
 }
 body {
-  background-color: #abc9ff;
+  background-color: #c2ded1;
   letter-spacing: 2px;
   font-family: "Lato", sans-serif;
 }
@@ -32,7 +32,7 @@ header {
   margin: 50px 0;
 }
 header > h1 {
-  color: #4787fe;
+  color: #7c3e66;
   margin-bottom: 15px;
 }
 
