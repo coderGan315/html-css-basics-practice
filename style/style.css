@@ -27,3 +27,14 @@ a {
   text-decoration: none;
   display: inline-block;
 }
+header {
+  text-align: center;
+  margin: 50px 0;
+}
+header > h1 {
+  color: #4787fe;
+  margin-bottom: 15px;
+}
+header > img {
+  width: 300px;
+}
